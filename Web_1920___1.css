@@ -1,0 +1,133 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___1 {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%);
+	left: 50%;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(213,213,213,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+.Movie {
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#RedOverlay {
+	opacity: 0.82;
+}
+.RedOverlay {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+.ID41IYHfgOS9L__SL1000_ {
+	position: absolute;
+	overflow: visible;
+	width: 384px;
+	height: 369px;
+	left: 768px;
+	top: 338px;
+}
+.tesla_logo_text_png_14 {
+	position: absolute;
+	overflow: visible;
+	width: 505px;
+	height: 100px;
+	left: 708px;
+	top: 642px;
+}
+.NavBar {
+	position: absolute;
+	overflow: visible;
+	width: 1921px;
+	height: 65px;
+	left: -1px;
+	top: 0px;
+}
+.Footer {
+	position: absolute;
+	overflow: visible;
+	width: 1921px;
+	height: 65px;
+	left: 0px;
+	top: 1015px;
+}
+.StartBut {
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	height: 69px;
+	left: 828px;
+	top: 792px;
+}
+#start {
+	position: absolute;
+	left: 919px;
+	top: 795px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(197,37,37,1);
+}
+.LogInBut {
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	height: 35px;
+	left: 1788px;
+	top: 15px;
+}
+#Log_in {
+	position: absolute;
+	left: 1813px;
+	top: 21px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.tesla_logo_text_png_14_A0_Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	height: 34px;
+	left: 14px;
+	top: 16px;
+}
