@@ -37,7 +37,7 @@
 	top: 0px;
 }
 #RedOverlay {
-	opacity: 0.82;
+	opacity: 0.65;
 }
 .RedOverlay {
 	position: absolute;
@@ -130,4 +130,7 @@
 	height: 34px;
 	left: 14px;
 	top: 16px;
+}
+html{
+	background-color:rgba(23,23,23,1);
 }
